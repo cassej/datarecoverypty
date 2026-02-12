@@ -720,8 +720,8 @@ body {
 /* Back to Top */
 .back-to-top {
   position: fixed;
-  bottom: 1.5rem;
-  right: 1.5rem;
+  bottom: 7rem;
+  right: 2rem;
   width: 3.5rem;
   height: 3.5rem;
   background: var(--accent);
